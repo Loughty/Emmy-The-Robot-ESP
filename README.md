@@ -1,6 +1,6 @@
 # EMMY THE ROBOT (ESPAÑOL)
 
-Proyecto de traducción de Emmy The Robot (Emmy la robot).
+Proyecto de traducción de Emmy The Robot (Emmy la robot). La obra original en inglés es producto de Dominic Cellini (Domcell), las distintas traducciones fueron hechas por contribuciones anonimas y mi persona. Los fanarts a quienes corresponda.
 
 Cuando estés en la galería, dale al botón de descargar, la imagen de la previsualización es solo una miniatura, no la imagen en resolución completa.
 
