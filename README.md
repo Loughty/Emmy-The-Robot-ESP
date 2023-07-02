@@ -2,6 +2,7 @@
 
 Proyecto de traducción de Emmy The Robot (Emmy la robot).
 
+Cuando estés en la galería, dale al botón de descargar, la imagen de la previsualización es solo una miniatura, no la imagen en resolución completa.
 
 ### ¿Cómo contribuir?
 
