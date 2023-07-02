@@ -5,6 +5,10 @@ Proyecto de traducción de Emmy The Robot (Emmy la robot).
 
 ### ¿Cómo contribuir?
 
+Los dibujos descargados de Webtoons, aunque se vea como una sola tira larga en la página, al descargarlas vienen separadas. Por lo que primero hay que unirlas en un lienzo en su herramienta de edición de preferencia, para luego escribir el texto en la fuente, tamaño e interlineado adecuado, y posteriormente ser subido en la carpeta correspondiente en la galería.
+
+También existen otros recursos por traducir fuera de Webtoons, como las que hay en su cuenta de Twitter, por lo que si eres capaz de conseguirlo y pasarlas como está, ya es una ayuda. También edits y fanarts son bienvenidos, sobretodo si son en español.
+
 #### Recursos:
 Fuente
 ![JollyGood Serif](/jollygood-serif-complete.7z)
