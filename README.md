@@ -8,6 +8,7 @@ Proyecto de traducción de Emmy The Robot (Emmy la robot).
 #### Recursos:
 Fuente
 ![JollyGood Serif](/jollygood-serif-complete.7z)
+Tenga en cuenta que esta fuente, lastimosamente, no admite acentos.
 
 #### Photoshop:
 
